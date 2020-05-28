@@ -1,0 +1,15 @@
+protocol: http 
+host: localhost:5000 
+Url: /api/users 
+Date/Time: Wed May 27 2020 20:19:08 GMT+0500
+
+protocol: http 
+host: localhost:5000 
+Url: /about.html 
+Date/Time: Wed May 27 2020 20:19:12 GMT+0500
+
+protocol: http 
+host: localhost:5000 
+Url: /css/style.css 
+Date/Time: Wed May 27 2020 20:19:12 GMT+0500
+
